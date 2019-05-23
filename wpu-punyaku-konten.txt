@@ -2,6 +2,7 @@ rencana konten
 -javascript
   *framework javascript
   *ES6
+- Struktur data dasar.
 -php frameworks
 -interview
 -vlogs
