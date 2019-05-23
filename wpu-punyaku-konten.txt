@@ -1,12 +1,11 @@
 rencana konten
 -javascript
   *framework javascript
-  *ES6
-   ^ vue
-   ^ react 
-- Struktur data dasar.
+    ^ angular
+    ^ react
 -php frameworks
-   ^ laravel
+  ^laravel
+- Struktur data dasar.
 -interview
 -vlogs
 -python
