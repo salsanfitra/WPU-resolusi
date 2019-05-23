@@ -1,8 +1,10 @@
 rencana konten
 -javascript
   *framework javascript
+    ^ angular
+    ^ react
   *ES6
-- Struktur data dasar.
 -php frameworks
+  ^laravel
 -interview
 -vlogs
